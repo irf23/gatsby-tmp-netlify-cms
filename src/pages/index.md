@@ -1,63 +1,55 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
+title: Don't look far for great eyewear
 image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+heading: Framing your personality for over 25 years!
+subheading: Improve your vision, and support local.
 mainpitch:
-  title: Why Kaldi
+  title: Why Eye Deal
   description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+    Eye Deal is the optical store for everyone who believes that great vision
+    shouldn't just look good, it should be affordable as well. Our free frame selection is
+    curated to ensure you can have the best of both worlds.
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  Eye Deal Optical is the ultimate spot for prescription lenses, contact lenses,
+  sunglasses, and eyeglass repairs. We take our service seriously, and stand behind our
+  quality products.
 intro:
   blurbs:
     - image: /img/coffee.png
       text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
+        We sell prescription lenses from all brands. We’re proud to offer a
+        variety of lenses custom surfaced with great care. Check our booking page or contact 
+        us directly to get your new pair today.
     - image: /img/coffee-gear.png
       text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
+        We offer a wide variety of contact lenses including progressive, and asygmatism.
+        No matter if you buy your lenses online, or if you have ordered with us before,
+        you’ll find the best brands at the lowest prices to fall in love with in our shop.
     - image: /img/tutorials.png
       text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
+        Love spending time outdoors, but never tried polarized sunglasses?
+        Don't worry, we’re here to help. Whether you have a style in mind, or 
+        want to check out what we have in-store, you can schedule a custom 1-on-1 
+        consultation with our frame stylists to order your new pair today.
         Email us or call the store for details.
     - image: /img/meeting-space.png
       text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
+        We believe that good vision has the power to change lives.
+        That’s why we offer repair services for eyeglasses and frames,
+        even if you didn't purchase with us. All quotes include parts and labour.
   heading: What we offer
   description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
+    Eye Deal Optical is the ultimate spot for all your eyewear needs.
+    We take pride in supporting and giving back to the community that supports us. 
+    We’re glad to address any eyewear issues you may have.
 main:
-  heading: Great coffee with no compromises
+  heading: Great eyewear with no compromises
   description: >
-    We hold our coffee to the highest standards from the shrub to the cup.
-    That’s why we’re meticulous and transparent about each step of the coffee’s
-    journey. We personally visit each farm to make sure the conditions are
-    optimal for the plants, farmers and the local environment.
+    We hold our eyewear to the highest standards from the lenses to the frame.
+    That’s why we’re meticulous about each step of the production of your custom 
+    eyewear. We personally re-visit each measurement to make sure the products provided
+    are optimal for your eyes.
   image1:
     alt: A close-up of a paper filter filled with ground coffee
     image: /img/products-grid3.jpg
