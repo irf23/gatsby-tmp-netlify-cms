@@ -23,13 +23,15 @@ export default function FullWidthImage(props) {
         {img?.url ? (
           <img
             src={img}
-            objectFit={"cover"}
+            objectFit={"stretch"}
             objectPosition={imgPosition}
             style={{
               gridArea: "1/1",
               // You can set a maximum height for the image, if you wish.
               height: height,
               width: "100%",
+              resizeMode: "contain",
+              transform: "translateY(50%)",
             }}
             // You can optionally force an aspect ratio for the generated image
             aspectratio={3 / 1}
@@ -40,12 +42,13 @@ export default function FullWidthImage(props) {
         ) : (
           <GatsbyImage
             image={img}
-            objectFit={"cover"}
+            objectFit={"stretch"}
             objectPosition={imgPosition}
             style={{
               gridArea: "1/1",
               // You can set a maximum height for the image, if you wish.
               maxHeight: height,
+              resizeMode: "contain",
             }}
             layout="fullWidth"
             // You can optionally force an aspect ratio for the generated image

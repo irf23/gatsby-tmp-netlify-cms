@@ -1,35 +1,29 @@
 ---
 templateKey: 'product-page'
 path: /products
-title: Our Coffee
+title: Our Products
 image: /img/jumbotron.jpg
-heading: Great coffee with a conscience
+heading: Great eyewear with a conscience
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  Eyedeal Optical is the ultimate spot for eyewear on the Sunshine Coast. We take eyewear 
+  ordering, production, and knowledge seriously, and we’re glad to pass that service to anyone.
 intro:
   blurbs:
     - image: /img/coffee.png
       text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
+        We sell all types of frames and lenses. We’re proud to offer a
+        variety of lens brands to choose from to suit your budget. 
+        Contact us directly for specific availabilities.
     - image: /img/coffee-gear.png
       text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
+        We offer a wide, and carefully curated selection of sunglasses for all people and activities. 
+        No matter if you fish on weekends or head out snowmobiling in the winter, you’ll find the right pair of Sunglasses
         to fall in love with in our shop.
     - image: /img/tutorials.png
       text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
+        Hate overpaying for contact lenses? We match or beat online pricing! Having trouble putting them in your eyes? 
+        Don't worry, we’re here to help. You can schedule a custom 1-on-1 consultation with our contact lens specialist
+        for assistance with contact lens fitting.
         Email us or call the store for details.
     - image: /img/meeting-space.png
       text: >
@@ -45,9 +39,9 @@ intro:
     production, roasting and brewing seriously and we’re glad to pass that
     knowledge to anyone. This is an edit via identity...
 main:
-  heading: Great coffee with no compromises
+  heading: Great eyewear with no compromises
   description: >
-    We hold our coffee to the highest standards from the shrub to the cup.
+    We hold our eyewear to the highest standards from the shrub to the cup.
     That’s why we’re meticulous and transparent about each step of the coffee’s
     journey. We personally visit each farm to make sure the conditions are
     optimal for the plants, farmers and the local environment.
