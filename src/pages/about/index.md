@@ -2,6 +2,7 @@
 templateKey: 'about-page'
 path: /about
 title: About our values
+image: /img/jumbotron-gibsons.jpg
 ---
 ### Locally Owned and Operated
 Reinvest in your local community by supporting local businesses. 

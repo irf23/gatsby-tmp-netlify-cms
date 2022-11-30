@@ -76,7 +76,7 @@ export const ProductPageTemplate = ({
           </div>
         </div>
       </section>
-      <FullWidthImage img={fullWidthImage} imgPosition={"bottom"} />
+      <FullWidthImage img={fullWidthImage} imgPosition={"center"} />
       <section className="section section--gradient">
         <div className="container">
           <div className="section">
