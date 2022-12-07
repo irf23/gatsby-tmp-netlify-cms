@@ -20,4 +20,4 @@ We want to truly empower the communities that we work and live in. That’s why 
 With over 1000+ frames in stock, you're sure to find the perfect pair. We also carry sunglasses, and contact lenses.
 
 ### Best services on the coast
-Need a Sight Test? Broke your glasses again? Give us a call, or book an appointment
+Need a Sight Test? Broken your glasses again? Give us a call, or book an appointment

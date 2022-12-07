@@ -9,29 +9,27 @@ description: >-
   ordering, production, and knowledge seriously, and we’re glad to pass that service to anyone.
 intro:
   blurbs:
-    - image: /img/coffee.png
+    - image: /img/frames2.jpg
       text: >
         We sell all types of frames and lenses. We’re proud to offer a
         variety of lens brands to choose from to suit your budget. 
         Contact us directly for specific availabilities.
-    - image: /img/coffee-gear.png
+    - image: /img/sunglasses.jpg
       text: >
         We offer a wide, and carefully curated selection of sunglasses for all people and activities. 
         No matter if you fish on weekends or head out snowmobiling in the winter, you’ll find the right pair of Sunglasses
         to fall in love with in our shop.
-    - image: /img/tutorials.png
+    - image: /img/contacts2.jpg
       text: >
         Hate overpaying for contact lenses? We match or beat online pricing! Having trouble putting them in your eyes? 
         Don't worry, we’re here to help. You can schedule a custom 1-on-1 consultation with our contact lens specialist
         for assistance with contact lens fitting.
         Email us or call the store for details.
-    - image: /img/meeting-space.png
+    - image: /img/kids.jpg
       text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
+        We believe that good vision has the power make a real difference in childrens' lives.
+        That’s why we sell eyeglasses for kids. Come check out or selection in store, or donate your
+        child's old pair today!
   heading: What we offer
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their

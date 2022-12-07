@@ -16,24 +16,24 @@ description: >-
   quality products.
 intro:
   blurbs:
-    - image: /img/coffee.png
+    - image: /img/lenses.jpg
       text: >
         We sell prescription lenses from all brands. We’re proud to offer a
         variety of lenses custom surfaced with great care. Check our booking page or contact 
         us directly to get your new pair today.
-    - image: /img/coffee-gear.png
+    - image: /img/contacts3.jpg
       text: >
         We offer a wide variety of contact lenses including progressive, and asygmatism.
         No matter if you buy your lenses online, or if you have ordered with us before,
         you’ll find the best brands at the lowest prices to fall in love with in our shop.
-    - image: /img/tutorials.png
+    - image: /img/sunglasses2.jpg
       text: >
         Love spending time outdoors, but never tried polarized sunglasses?
         Don't worry, we’re here to help. Whether you have a style in mind, or 
         want to check out what we have in-store, you can schedule a custom 1-on-1 
         consultation with our frame stylists to order your new pair today.
         Email us or call the store for details.
-    - image: /img/meeting-space.png
+    - image: /img/repair.jpg
       text: >
         We believe that good vision has the power to change lives.
         That’s why we offer repair services for eyeglasses and frames,
