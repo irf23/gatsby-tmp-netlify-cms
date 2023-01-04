@@ -28,7 +28,8 @@
     "react-dom": "^18.0.0",
     "react-helmet": "^6.0.0",
     "sass": "^1.43.2",
-    "uuid": "^8.0.0"
+    "uuid": "^8.0.0",
+    "yarn": "^1.22.19"
   },
   "keywords": [
     "gatsby"
