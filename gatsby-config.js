@@ -1,3 +1,10 @@
+var netlifyCmsPaths = {
+  resolve: `gatsby-plugin-netlify-cms-paths`,
+  options: {
+    cmsConfig: `/static/admin/config.yml`,
+  },
+}
+
 module.exports = {
   siteMetadata: {
     title: "Eye Deal Optical",
@@ -36,6 +43,7 @@ module.exports = {
         name: "images",
       },
     },
+    netlifyCmsPaths,
     `gatsby-plugin-image`,
     "gatsby-plugin-sharp",
     "gatsby-transformer-sharp",
@@ -43,6 +51,7 @@ module.exports = {
       resolve: "gatsby-transformer-remark",
       options: {
         plugins: [
+          netlifyCmsPaths,
           {
             resolve: "gatsby-remark-relative-images",
             options: {
