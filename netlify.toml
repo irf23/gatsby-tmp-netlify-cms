@@ -3,7 +3,7 @@
   command = "yarn run build"
 [build.environment]
   NODE_VERSION = "18.12.1"
-  YARN_VERSION = "1.22.4"
+  YARN_VERSION = "1.22.19"
   YARN_FLAGS = "--no-ignore-optional"
 
 
