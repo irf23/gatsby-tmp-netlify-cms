@@ -27,6 +27,7 @@
     "gatsby-transformer-sqip": "^5.3.2",
     "lodash": "^4.17.15",
     "lodash-webpack-plugin": "^0.11.4",
+    "netlify-cli": "^12.5.0",
     "netlify-cms-app": "^2.15.65",
     "prop-types": "^15.6.0",
     "react": "^18.0.0",
