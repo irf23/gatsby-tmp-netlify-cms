@@ -5,6 +5,7 @@
 import AboutPagePreview from './preview-templates/AboutPagePreview'
 import ProductPagePreview from './preview-templates/ProductPagePreview'
 import IndexPagePreview from './preview-templates/IndexPagePreview'
+import FindUsPagePreview from './preview-templates/'
 
 //CMS.registerMediaLibrary(uploadcare)
 //CMS.registerMediaLibrary(cloudinary)
