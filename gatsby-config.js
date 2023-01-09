@@ -92,9 +92,14 @@ module.exports = {
     {
       resolve: `gatsby-transformer-remark`,
       options: {
-        plugins: [`gatsby-remark-responsive-iframe`],
+        plugins: [`gatsby-remark-responsive-iframe`,
+        `gatsby-remark-relative-images`,
+        {
+          resolve: `gatsby-remark-images`,
+          options: {},
+        },],
       },
     },
-    "gatsby-plugin-netlify", // make sure to keep it last in the array
+    "gatsby-plugin-netlify-cms", // make sure to keep it last in the array
   ],
 };
