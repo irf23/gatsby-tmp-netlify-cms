@@ -12,6 +12,14 @@ module.exports = {
       "This repo contains the business website for Eye Deal Optical that is built with Gatsby, and Netlify CMS.It follows the JAMstack architecture by using Git as a single source of truth, and Netlify for continuous deployment, and CDN distribution.",
   },
   plugins: [
+    {
+      // keep as first gatsby-source-filesystem plugin for gatsby image support
+      resolve: "gatsby-source-filesystem",
+      options: {
+        path: `${__dirname}/static/img`,
+        name: "uploads",
+      },
+    },
     "gatsby-plugin-react-helmet",
     {
       resolve: "gatsby-plugin-sass",
@@ -50,14 +58,6 @@ module.exports = {
           },
         ],
       }
-    },
-    {
-      // keep as first gatsby-source-filesystem plugin for gatsby image support
-      resolve: "gatsby-source-filesystem",
-      options: {
-        path: `${__dirname}/static/img`,
-        name: "uploads",
-      },
     },
     {
       resolve: "gatsby-source-filesystem",
