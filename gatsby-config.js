@@ -77,7 +77,7 @@ module.exports = {
     `gatsby-plugin-image`,
     "gatsby-plugin-sharp",
     {
-      resolve: "gatsby-plugin-netlify-cms",
+      resolve: "gatsby-plugin-netlify",
       options: {
         modulePath: `${__dirname}/src/cms/cms.js`,
       },
@@ -100,6 +100,6 @@ module.exports = {
         },],
       },
     },
-    "gatsby-plugin-netlify-cms", // make sure to keep it last in the array
+    "gatsby-plugin-netlify", // make sure to keep it last in the array
   ],
 };
