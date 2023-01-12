@@ -74,9 +74,7 @@ const Navbar = class extends React.Component {
               <Link className="navbar-item" to="/contact">
                 Contact
               </Link>
-              <Link className="navbar-item" to="https://calendly.com/eyedeal/sight-test">
-                Sight Test Gibsons
-              </Link>
+              <a className="navbar-item" href="https://calendly.com/eyedeal/sight-test">Gibsons: Book a Sight test</a>
             </div>
           </div>
         </div>
