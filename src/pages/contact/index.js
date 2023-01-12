@@ -26,7 +26,7 @@ export default class Index extends React.Component {
       headers: { "Content-Type": "application/x-www-form-urlencoded" },
       body: encode({
         "form-name": form.getAttribute("name"),
-        "subject": 'Inquiry from eyedeal.ca',
+        "subject": "Inquiry from eyedeal.ca",
         ...this.state,
       }),
     })
@@ -52,7 +52,6 @@ export default class Index extends React.Component {
                 {/* The `form-name` hidden field is required to support form submissions without JavaScript */}
                 <input type="hidden" name="form-name" value="contact"/>
                 <input type="hidden" name="email" />
-                <input type="hidden" name="subject" value="Inquiry from eyedeal.ca" />
                 <div hidden>
                   <label>
                     Don’t fill this out:{" "}
