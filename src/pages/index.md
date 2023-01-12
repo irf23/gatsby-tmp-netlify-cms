@@ -15,6 +15,7 @@ description: >-
   sunglasses, and eyeglass repairs. We take our service seriously, and stand behind our
   quality products.
 intro:
+  heading: What we offer
   blurbs:
     - image: /img/lenses.jpg
       text: >
@@ -38,25 +39,4 @@ intro:
         We believe that good vision has the power to change lives.
         That’s why we offer repair services for eyeglasses and frames,
         even if you didn't purchase with us. All quotes include parts and labour.
-  heading: What we offer
-  description: >
-    Eye Deal Optical is the ultimate spot for all your eyewear needs.
-    We take pride in supporting and giving back to the community that supports us. 
-    We’re glad to address any eyewear issues you may have.
-main:
-  heading: Great eyewear with no compromises
-  description: >
-    We hold our eyewear to the highest standards from the lenses to the frame.
-    That’s why we’re meticulous about each step of the production of your custom 
-    eyewear. We personally re-visit each measurement to make sure the products provided
-    are optimal for your eyes.
-  image1:
-    alt: A close-up of a paper filter filled with ground coffee
-    image: /img/products-grid3.jpg
-  image2:
-    alt: A green cup of a coffee on a wooden table
-    image: /img/products-grid2.jpg
-  image3:
-    alt: Coffee beans
-    image: /img/products-grid1.jpg
 ---
