@@ -1,5 +1,6 @@
-# Optical Website : Gatsby + Netlify CMS Starter Template
-[![Netlify Status](https://api.netlify.com/api/v1/badges/0200d716-4f7a-4d08-a93e-a3395e677c23/deploy-status)](https://app.netlify.com/sites/chimerical-hotteok-86e4c9/deploys)
+# Gatsby + Netlify CMS Starter
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/b654c94e-08a6-4b79-b443-7837581b1d8d/deploy-status)](https://app.netlify.com/sites/gatsby-starter-netlify-cms-ci/deploys)
 
 **Note:** This starter uses [Gatsby v4](https://www.gatsbyjs.com/gatsby-4/).
 
